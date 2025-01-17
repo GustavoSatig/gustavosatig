@@ -60,8 +60,3 @@ I currently work in the field of **information security**, developing the web ap
 
 ### Fun Fact ⚡:
 I thrive on challenges and constantly explore new technologies to stay ahead in this ever-evolving field. Let's collaborate and make great things happen!
-
----
-
-[![Gustavo Satig's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavosatig&show_icons=true&theme=dark)](https://github.com/gustavosatig)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosatig&show_icons=true&theme=dark)](https://github.com/gustavosatig)
