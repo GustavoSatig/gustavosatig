@@ -54,7 +54,7 @@ I currently work in the field of **information security**, developing the web ap
 - [LinkedIn](https://www.linkedin.com/in/gustavosatig/)
 - [Portfolio](https://read.cv/satig)
 - [Instagram](https://www.instagram.com/gustavosatig)
-- [Personal Website](https://satig.github.io)
+- [Personal Website](https://gustavosatig.github.io)
 
 ---
 
